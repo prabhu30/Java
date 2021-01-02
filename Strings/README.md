@@ -1,5 +1,5 @@
 
-Method	| Description	Return Type
+Method	| Description |	Return Type
 --- | --- | ---
 charAt()	| Returns the character at the specified index (position)	| char
 codePointAt()	| Returns the Unicode of the character at the specified index	| int
