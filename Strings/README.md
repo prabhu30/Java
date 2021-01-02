@@ -1,7 +1,7 @@
 
 SNo | Method	| Description |	Return Type
 --- | --- | --- | ---
-1. | charAt()	| Returns the character at the specified index (position)	| char
+1 | charAt()	| Returns the character at the specified index (position)	| char
 2. | codePointAt()	| Returns the Unicode of the character at the specified index	| int
 3. | codePointBefore() | Returns the Unicode of the character before the specified index	| int
 4. | codePointCount()	| Returns the Unicode in the specified text range of this String	| int
